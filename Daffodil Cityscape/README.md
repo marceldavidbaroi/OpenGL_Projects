@@ -25,3 +25,8 @@ This project is a 2D OpenGL scene that depicts the Daffodil Knowledge Tower, an 
 2. Paste the file in the previous mentioned files
 3. Run using run++ extension 
 
+![image](https://github.com/marceldavidbaroi/OpenGL_Projects/assets/159849210/28fc36e0-23ef-4412-bc61-fc1dc523bd95)
+
+![image](https://github.com/marceldavidbaroi/OpenGL_Projects/assets/159849210/0a04f3a8-611c-4c9d-bd7b-132b592920e9)
+
+
